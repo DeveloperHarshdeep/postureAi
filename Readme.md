@@ -10,8 +10,6 @@ The app uses **TensorFlow MoveNet** on the frontend for pose estimation and **ru
 
 - **Frontend (Vercel):** [https://postureai.vercel.app](https://postureai.vercel.app)
 - **Backend (Render):** [https://postureai.onrender.com](https://postureai.onrender.com)
-- **Demo Video:** [INSERT_YOUR_DEMO_VIDEO_LINK_HERE]
-
 ---
 
 ## 📁 GitHub Repositories
